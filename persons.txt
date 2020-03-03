@@ -1,0 +1,3 @@
+1;Benjamin;22;100
+2;Kevin;27;0
+4;Matias;22;60
